@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimny&label=Profile%20views&color=0e75b6&style=flat" alt="chimny" /> </p>
 
-- 🔭 I’m currently working on [HR plaftorm front end](https://github.com/chimny/HRPlatformFrontEnd)
+- 🔭 I’m currently working on [Promptopia - inspired by Javascript Mastery project](https://github.com/chimny/promptopia)
 
 - 🌱 I’m currently learning **Typescript, React, Express JS, SQL - soon nest.js**
 
